@@ -64,7 +64,7 @@ function setBoard() {
 
 function getBodyBackground() {
     let getBody = document.getElementsByTagName("body")[0];
-    let prop = window.getComputedStyle(getBody).getPropertyValue("background-color");
+     let prop = window.getComputedStyle(getBody).getPropertyValue("background-color");
 
     return prop;
 }

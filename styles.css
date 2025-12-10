@@ -1,4 +1,4 @@
-body {
+`body {
     display: flex;
     justify-content: center;
 
@@ -49,5 +49,6 @@ body {
 
 .circle:hover {
     border: 3px darkblue solid;
-    background-color: #e3c1c1;
+    background-color:coral;
+     
 }
